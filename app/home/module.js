@@ -13,5 +13,5 @@
                 templateUrl: './home/homeView.html'
             });
         }]);
-
+	console.log(11)
 })(angular)
